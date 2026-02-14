@@ -2,7 +2,7 @@
 
 This repo demonstrates the use of **Azure AI Foundry Projects SDK** with the **Code Interpreter** tool and **Agents v2 API** in JavaScript.
 
-> [!NOTE]
+> [!TIP]
 > For classic agents using `@azure/ai-agents`, check this repo instead: [AIFoundry-Agents-CodeInterpreter-JavaScript](https://github.com/LazaUK/AIFoundry-Agents-CodeInterpreter-JavaScript).
 
 ## 📑 Table of Contents:
