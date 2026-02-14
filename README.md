@@ -10,7 +10,7 @@ This repo demonstrates the use of **Azure AI Foundry Projects SDK** with the **C
 - [Part 2: Client Initialisation](#part-2-client-initialisation)
 - [Part 3: Code Interpreter Tool](#part-3-code-interpreter-tool)
 - [Part 4: Running the Demo](#part-4-running-the-demo)
-- [Appendix: Agents v1 (Classic) vs v2 (New) Comparison]()
+- [Appendix: Agents v1 (Classic) vs v2 (New) Comparison](#appendix-agents-v1-classic-vs-v2-new-comparison)
 
 ## Part 1: Configuring Solution Environment
 To run the provided JavaScript demo, you'll need to set up your Azure AI Foundry project and install required packages.
