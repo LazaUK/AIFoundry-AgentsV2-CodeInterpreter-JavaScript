@@ -73,7 +73,7 @@ The demo uses the `@azure/ai-projects` SDK (v2 beta) to interact with Azure AI F
 const { AIProjectClient } = require("@azure/ai-projects");
 const { DefaultAzureCredential } = require("@azure/identity");
 
-// Initialize Azure AI Projects client
+// Initialise Azure AI Projects client
 const credential = new DefaultAzureCredential();
 const project = new AIProjectClient(process.env.AZURE_FOUNDRY_PROJECT_ENDPOINT, credential);
 
